@@ -1,0 +1,10 @@
+package com.amky.array;
+
+public class ArrayDynamicPopulate {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,25 @@
+package com.amky.oopconcepts;
+
+public class Person {
+	
+	String firstName;
+	String lastName;
+	String addressLine1;
+	String addressLine2;
+	String city;
+	String zip;
+	String state;
+	int phone;
+	String driverLicense;
+	String birthDate;
+	boolean active=true;
+	
+	
+	//Constructor for a Person Class
+	public Person(String fistName, String lastName, String addressLine1, String addressLine2, String city, String zip, String state, int phone, int driversLicense, String birthDate, boolean active){
+		
+	}
+	
+	
+
+}

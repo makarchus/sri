@@ -1,0 +1,17 @@
+package com.amky.oopconcepts;
+
+public class Person {
+	
+	String firstName;
+	String lastName;
+	String addressLine1;
+	String addressLine2;
+	String city;
+	String zip;
+	String state;
+	int phone;
+	String driverLicense;
+	String birthDate;
+	boolean active=true;
+
+}

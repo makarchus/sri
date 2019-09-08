@@ -1,0 +1,24 @@
+package com.amky.array;
+
+import java.util.Scanner;
+
+public class ArraySwapElements {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int [] myArray = new int[2];
+
+		Scanner myScanner = new Scanner(System.in);
+		System.out.println("Please enter a first Number:");
+		int a = myScanner.nextInt();
+		System.out.println("Please enter a Second Number:");
+		int b = myScanner.nextInt();
+		
+		myArray[0] = a;
+		myArray[1] = b;
+		
+		
+	}
+
+}
